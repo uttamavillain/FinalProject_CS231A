@@ -4,5 +4,5 @@
 
 Here's a walkthrough:
 
-![Main Video Walkthrough](Main)
+![Main Video Walkthrough](Main.gif)
 ![Homography Test Video Walkthrough](HomographyTest.gif)
